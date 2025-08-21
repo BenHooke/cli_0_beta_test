@@ -1,6 +1,7 @@
 pyinstaller_command.txt
 test.py
 backup
+*.spec
 
 # Virtual environments
 .venv/
