@@ -96,6 +96,7 @@ def intro_scene(phase=0) -> None:
     if phase == 0:
         ef.print_splash("type_error.txt", center=False)
         print("C:\\beta_test\\user_173>", end="")
+        ef.cursor_on()
         sys.stdout.flush()
         time.sleep(5)
         ef.type_out(".\\communicate.exe", delay=0.04, pause=False)
@@ -293,42 +294,8 @@ Please address failed commands in FORBIDDEN_COMMANDS.txt""")
  
 
 if __name__ == "__main__":
-    # ef.admin_generate()
-    # ef.log_file_create()
     main()
 
-    # ef.save_date()
-    # ef.save_time()
-
-
-    # cleo_finale()
-
-#     ef.clear_screen()
-#     ef.cursor_off()
-
-#     print("Hello, thank you for participating in the CLI.0 Beta Test.\n")
-#     time.sleep(4)
-
-#     ef.log_file_update("DEBUG")
-#     ef.log_file_update(admin_password[0])
-#     ef.log_file_update(last_resort[0])
-#     while len(user_commands) < 3:
-#         ef.clear_screen()
-#         time.sleep(2)
-
-#         forbidden_name = ef.check_name_standard()
-#         user_commands.append(forbidden_name)
-#         ef.log_file_update(forbidden_name)
-#         ef.forbidden_input("admin")
-
-#     ef.clear_screen()
-#     print("""\033[1;32m3\033[0m new entries added to FORBIDDEN_COMMANDS
-# \033[1;32m6\033[0m new entries added to FORBIDDEN_COMMANDS.txt
-# Conflicts: \033[1;31m3\033[0m
-# Please remove failed commands from FORBIDDEN_COMMANDS.txt""")
-
-#     time.sleep(3)
-#     curses.wrapper(admin_page)
 
 
 

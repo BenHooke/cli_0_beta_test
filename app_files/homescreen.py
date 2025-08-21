@@ -97,7 +97,7 @@ KeyboardInterrupt""")
     print("Niel: Hey, sorry about that.")
 
     ef.typing_message(cycles=3, start_sleep=2)
-    print("Niel: I'm looking through this code and it's a mess.")
+    print("Niel: I'm looking through this code and it's a mess.")  # This is me projecting  -Ben
 
     ef.typing_message(cycles=3, start_sleep=5)
     print("Niel: Oh sorry, you don't care about that.")
