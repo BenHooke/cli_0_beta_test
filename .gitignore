@@ -1,0 +1,22 @@
+pyinstaller_command.txt
+test.py
+backup
+
+# Virtual environments
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs / temporary
+*.log
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db

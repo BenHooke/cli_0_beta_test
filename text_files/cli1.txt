@@ -1,0 +1,18 @@
+=================================================================================
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+=================================================================================
+   CCCCCCCCCCCCCCC   LLLLL            IIIIIIIIIIIIIIIII          00000000000     
+  CCCCCCCCCCCCCCCCC  LLLL              IIIIIIIIIIIIIII         000000000000000   
+ CCCCC           CC  LLLL                   IIIII             0000         0000  
+ CCCC                LLLL                   IIIII            0000         000000 
+ CCCC                LLLL                   IIIII            0000       000 0000 
+ CCCC                LLLL                   IIIII            0000     000   0000 
+ CCCC                LLLL                   IIIII            0000   000     0000 
+ CCCC                LLLL                   IIIII            0000 000       0000 
+ CCCC                LLLL                   IIIII            000000         0000 
+ CCCC                LLLL                   IIIII             0000         0000  
+  CCCCCCCCCCCCCCCCC  LLLLLLLLLLLLLL    IIIIIIIIIIIIIII   •••   000000000000000   
+   CCCCCCCCCCCCCCC  LLLLLLLLLLLLLLLL  IIIIIIIIIIIIIIIII  •••     00000000000     
+=================================================================================
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+=================================================================================

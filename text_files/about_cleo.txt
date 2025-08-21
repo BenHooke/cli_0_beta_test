@@ -1,0 +1,10 @@
+===============================================================================
+                         What Would you like to know?                         
+===============================================================================
+
+                            1. What is Cleo
+                            2. Who made Cleo
+                            3. Is my data secure
+                            4. Designated specialist
+                            5. Upcoming features
+                            6. Exit

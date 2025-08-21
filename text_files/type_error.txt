@@ -1,0 +1,59 @@
+Traceback (most recent call last):
+  File "cli0_beta.py", line 107, in <module>
+    start_beta_test()
+  File "cli0_beta.py", line 78, in start_beta_test
+    collect_user_data()
+  File "cli0_beta.py", line 65, in collect_user_data
+    user_data['age'] = int(input("Age: "))
+TypeError: expected str, got int instead
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "cli0_beta.py", line 109, in <module>
+    main()
+  File "cli0_beta.py", line 91, in main
+    initialize_system()
+  File "cli0_beta.py", line 84, in initialize_system
+    parse_user_input()
+  File "cli0_beta.py", line 79, in parse_user_input
+    convert_age(user_data)
+  File "cli0_beta.py", line 48, in convert_age
+    return str(age)
+TypeError: expected str, got int instead
+
+Traceback (most recent call last):
+  File "cli0_beta.py", line 52, in <module>
+    bootstrap()
+  File "cli0_beta.py", line 29, in bootstrap
+    load_config()
+  File "cli0_beta.py", line 13, in load_config
+    raise_config_exception()
+  File "cli0_beta.py", line 12, in raise_config_exception
+    raise TypeError("expected str, got int instead")
+TypeError: expected str, got int instead
+
+Traceback (most recent call last):
+  File "cli0_beta.py", line 900, in <module>
+    system_boot()
+  File "cli0_beta.py", line 877, in system_boot
+    system_boot()
+  File "cli0_beta.py", line 877, in system_boot
+    system_boot()
+  File "cli0_beta.py", line 877, in system_boot
+    system_boot()
+  File "cli0_beta.py", line 877, in system_boot
+    system_boot()
+  [Previous line repeated 12 more times]
+RecursionError: maximum recursion depth exceeded while calling a Python object
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "cli0_beta.py", line 117, in <module>
+    emergency_shutdown()
+  File "cli0_beta.py", line 116, in emergency_shutdown
+    confirm_shutdown()
+  File "cli0_beta.py", line 115, in confirm_shutdown
+    print("TypeError: expected str, got int instead")
+TypeError: expected str, got int instead

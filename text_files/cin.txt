@@ -1,0 +1,24 @@
+===============================================================================
+                         CLASSIFIED INFORMATION NOTICE                         
+===============================================================================
+
+This program is part of an internal beta test authorized for select personnel 
+only. Access to this system is restricted. Unauthorized use or distribution of 
+any portion of this software is strictly prohibited and may result in civil or 
+criminal penalties under applicable law.
+
+All interactions within this interface are subject to observation and review. 
+A designated specialist will be monitoring this session for the duration of 
+the trial period to ensure compliance and to gather operational data.
+
+By proceeding, you acknowledge your responsibility to maintain confidentiality 
+and to comply with all directives issued by the overseeing authority.
+
+This is not a public release. Please report anomalies through the approved 
+channel.
+
+===============================================================================
+                     Rights Reserved by The Central Litigation Institute       
+===============================================================================
+
+
