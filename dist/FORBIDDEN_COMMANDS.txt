@@ -7,3 +7,9 @@ MAKE_AMMENDS
 NINE_ONE_ONE
 ROOM_SERVICE
 TERMINATE_CLI0
+ADMIN -- failed to add system critical input
+yourguyniel!613 -- failed to add system critical input
+2056 -- failed to add system critical input
+Ben
+Ben
+Ben
