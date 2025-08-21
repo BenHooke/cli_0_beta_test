@@ -1,0 +1,9 @@
+The following commands are explicitly prohibited. Any attempt to bypass system 
+security protocols will result in legal repercussions and potential system lockdown:
+
+
+ACCESS_LOGS
+MAKE_AMMENDS
+NINE_ONE_ONE
+ROOM_SERVICE
+TERMINATE_CLI0

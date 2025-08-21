@@ -16,13 +16,13 @@ from .cleo_phrases import *
 from .globals import completion, work_hours, forbidden_commands, admin_password, last_resort, todays_date, timestamps
 
 if getattr(sys, 'frozen', False):
-    # BASE_DIR = os.path.dirname(sys.executable)
+    BASE_DIR = os.path.dirname(sys.executable)
     TEXT_DIR = sys._MEIPASS  # Text_files dir path for bundled .exe
 else:
-    # BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     TEXT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-LOG_FILE = os.path.join(TEXT_DIR, 'FORBIDDEN_COMMANDS.txt')
+LOG_FILE = os.path.join(BASE_DIR, 'FORBIDDEN_COMMANDS.txt')
 TEXT_FILES = os.path.join(TEXT_DIR, 'text_files')
 
 ansi_escape = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
