@@ -7,8 +7,7 @@ Welcome!
 This is my classic self-taught / beginner programmer project: the quintessential text-based adventure (more like a text-based experience).
 
 Disclaimer:
-This is a horror game. It’s not going to keep you up at night, but there are some vaguely creepy moments and a bit of 
-vile language if you look closely. Player discretion is advised.
+This is a horror game. It’s not going to keep you up at night, but there are some vaguely creepy moments and a bit of  vile language if you look closely. Player discretion is advised.
 
 How to Run
 
@@ -30,5 +29,4 @@ python3 main.py
 
 Note: I have yet to test this on Mac or Linux so please let me know if and what to fix.
 
-Optionally, there is a .exe file in the dist directory, easy plug and play for Windows and (maybe?) Mac. Not Linux yet but I'll make
-an easy Linux executable soon.
+Optionally, there is a .exe file in the dist directory, easy plug and play for Windows and (maybe?) Mac. Not Linux yet but I'll make an easy Linux executable soon.
